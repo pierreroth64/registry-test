@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pierreroth64/registry-test#readme",
   "dependencies": {
+    "@material-ui/core": "4.12.4",
     "jss-plugin-rule-value-function": "10.9.2"
   }
 }
